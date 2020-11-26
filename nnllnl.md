@@ -8,6 +8,5 @@ page_sections:
   image: "/uploads/2020/11/26/avatar.jpg"
   slug: ''
   caption: ''
-published: false
 
 ---
